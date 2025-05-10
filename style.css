@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(249, 255, 223);
+    color: rgb(7, 51, 7);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    margin: auto;
+}
+
+img{
+    border-radius: 70%;
+    margin: 5px;
+}
+
+header{
+    background-color: rgb(246, 255, 212);
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(231, 250, 215);
+}
+
+main{
+    background-color: rgb(255, 252, 212);
+    font-size: 1rem;
+    text-align: center;
+}
+    
+li{
+    visibility: visible;
+    text-align: center;
+    list-style-type: none;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(23, 70, 26);
+}
+
+p{
+    line-height: 1.5rem;
+    font-size: 1rem;
+}
+
+
+
+footer{
+    background-color: rgb(231, 250, 215);
+    text-align: center;
+}
+
